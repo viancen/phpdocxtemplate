@@ -14,7 +14,7 @@
   "require": {
     "ext-zip": "*",
     "ext-dom": "*",
-    "php": "^7.2",
+    "php": "^8.0",
     "twig/twig":"^3.0"
   },
   "require-dev": {
